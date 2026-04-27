@@ -7,6 +7,11 @@ The goal is to identify operational bottlenecks and provide data-driven recommen
 
 ---
 
+## 📷 Dashboard Preview
+![Dashboard](images/dashboard.png)
+
+---
+
 ## 📂 Dataset
 - Total Tickets: 97,498
 - Time Period: 2016 - 2020
