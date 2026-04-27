@@ -1,99 +1,82 @@
 # 📊 IT Support Performance & Ticket Analysis Dashboard
 
-## 📌 Project Overview
-This project analyzes IT support ticket data to evaluate system efficiency, agent performance, and customer satisfaction.
+## 📌 Overview
+Analyzed IT support ticket data to evaluate system efficiency, agent performance, and customer satisfaction.
 
-The goal is to identify operational bottlenecks and provide data-driven recommendations to improve IT service performance.
-
----
-
-## 📷 Dashboard Preview
-<img width="1339" height="703" alt="IT Support Dashboard image" src="https://github.com/user-attachments/assets/e069c74c-2318-4ac5-bcfe-80bfe5464a19" />
+Goal: Identify bottlenecks and provide data-driven recommendations to improve scalability and performance.
 
 ---
 
 ## 📂 Dataset
-- Total Tickets: 97,498
-- Time Period: 2016 - 2020
-- Number of Agents: 50
+- 97,498 tickets (2016–2020)
+- 50 IT agents
+- Includes: ticket category, severity, resolution time, satisfaction
 
 ---
 
-## 🛠 Tools Used
-- Microsoft Excel
-- Pivot Tables
-- Slicers
-- Data Cleaning
-- Data Visualization
+## 🛠 Tools & Skills
+**Tools:** Excel  
+
+**Skills:**
+- Data Cleaning & Preprocessing   
+- Pivot Tables & Data Aggregation  
+- Dashboarding & Data Visualization  
+- KPI Analysis & Business Insights  
+
+---
+
+## ⚙️ What I Did
+- Cleaned and standardized raw data  
+- Built pivot tables for trend & performance analysis  
+- Analyzed KPIs (resolution time, satisfaction, ticket volume)  
+- Designed an interactive Excel dashboard using charts & slicers  
+- Performed category-wise and time-series analysis  
+- Generated actionable business insights  
 
 ---
 
 ## 📊 Key Metrics
-- Avg Resolution Time: 4.55 days  
-- Avg Satisfaction Score: 4.1 / 5  
-- Daily Ticket Volume: 53 tickets  
-- Avg Tickets per Agent: ~1950  
+- Avg Resolution Time: **4.55 days**  
+- Avg Satisfaction: **4.1 / 5**  
+- Daily Tickets: **53**  
+- Avg Tickets/Agent: **~1950**  
 
 ---
 
 ## 🔍 Key Insights
-
-### 1. Rapid Growth in Ticket Volume
-- Tickets increased from 13,051 (2016) → 29,088 (2020)
-- Indicates rising dependency on IT support
-
----
-
-### 2. Workload Imbalance
-- ~70% tickets from:
-  - System Issues
-  - Login Access
-- Login issues = fast  
-- System issues = slow & complex  
-
----
-
-### 3. Resolution Bottlenecks
-- Hardware: ~7.6 days  
-- System: ~6.6 days  
-- Software: ~5.2 days  
-
-👉 Complex issues significantly slow down operations
-
----
-
-### 4. Misleading Satisfaction Scores
-- Avg satisfaction = 4.1 (looks good)
-- But ~9,900 tickets rated 1/5
-
-👉 System works for simple problems, fails for complex ones
-
----
-
-### 5. System Design Problem (Not People Problem)
-- Too much manual work
-- Poor prioritization
-- No intelligent routing
-- Skill gaps in complex issue handling
+- 📈 Ticket volume doubled (13K → 29K) → rising demand  
+- ⚖️ 70% tickets from System & Login categories  
+- ⏳ Complex issues (Hardware/System) drive delays  
+- ⚠️ High satisfaction hides failures in complex cases  
+- 🧩 Core issue: system design, not individual performance  
 
 ---
 
 ## 💡 Recommendations
-
-- Automate login/access requests
-- Implement intelligent ticket routing
-- Prioritize urgent & major tickets
-- Provide targeted training for agents
-- Upgrade IT infrastructure
+- Automate repetitive requests (login issues)  
+- Implement intelligent ticket routing  
+- Prioritize urgent/critical tickets  
+- Train agents for complex issue handling  
+- Upgrade IT systems & tools  
 
 ---
 
-## 📁 Files Included
-- Excel Dashboard
-- Detailed Report
-- Presentation
+## 📷 Dashboard
+<img width="1339" height="603" alt="IT Support Dashboard image" src="https://github.com/user-attachments/assets/a4e1e4d1-53cd-4abe-b379-e817dd6f100d" />
+
+
+---
+
+## 📁 Structure
+dashboard/ | report/ | presentation/ | images/
 
 ---
 
 ## 🎯 Conclusion
-The system is functional but not scalable. Without automation and process improvement, increasing demand will lead to higher resolution times and declining satisfaction.
+System is functional but not scalable.  
+Efficiency will decline without automation and process improvements.
+
+---
+
+## 👤 Author
+**Sumit Bhatia**
