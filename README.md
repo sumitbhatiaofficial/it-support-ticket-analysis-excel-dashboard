@@ -64,12 +64,6 @@ Goal: Identify bottlenecks and provide data-driven recommendations to improve sc
 ## 📷 Dashboard
 <img width="1339" height="603" alt="IT Support Dashboard image" src="https://github.com/user-attachments/assets/a4e1e4d1-53cd-4abe-b379-e817dd6f100d" />
 
-
----
-
-## 📁 Structure
-dashboard/ | report/ | presentation/ | images/
-
 ---
 
 ## 🎯 Conclusion
