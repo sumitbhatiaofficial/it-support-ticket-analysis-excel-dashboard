@@ -8,7 +8,7 @@ The goal is to identify operational bottlenecks and provide data-driven recommen
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard](images/dashboard.png)
+<img width="1339" height="703" alt="IT Support Dashboard image" src="https://github.com/user-attachments/assets/e069c74c-2318-4ac5-bcfe-80bfe5464a19" />
 
 ---
 
