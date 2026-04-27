@@ -9,7 +9,7 @@ The goal is to identify operational bottlenecks and provide data-driven recommen
 
 ## 📂 Dataset
 - Total Tickets: 97,498
-- Time Period: 2016 – 2020
+- Time Period: 2016 - 2020
 - Number of Agents: 50
 
 ---
